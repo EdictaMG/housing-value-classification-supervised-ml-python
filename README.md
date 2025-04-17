@@ -1,6 +1,6 @@
 # Predicting Housing Value Using Supervised Machine Learning with Python
 
-In this classification project, I built a machine learning model to predict whether a home is expensive or not based on its features.
+In this classification project, I built a supervised machine learning model to predict whether a home is expensive or not based on its features.
 
 ## Situation
 
