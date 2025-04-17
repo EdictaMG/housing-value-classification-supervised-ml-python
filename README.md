@@ -32,6 +32,9 @@ The Random Forest model, fine-tuned with GridSearchCV for hyperparameter optimiz
 ### Script
 - `Classification_ML_random_forest.ipynb`: Notebook documenting the full process using the Random Forest model
 
+### Document
+- `housing_classification_features_descriptions.txt`: Describes each feature in the dataset for easier interpretation and analysis.
+
 ## Using the Files
 
 1. Download the data files and notebook and save them to your Google Drive.  
