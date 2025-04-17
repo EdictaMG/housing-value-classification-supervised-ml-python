@@ -45,7 +45,6 @@ The Random Forest model, fine-tuned with GridSearchCV for hyperparameter optimiz
 
 - Python 3.10.12  
 - Pandas 2.2.2  
-- NumPy 1.26.4  
 - scikit-learn 1.4.2  
 
 ## Tools
